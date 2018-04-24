@@ -5,6 +5,9 @@
 
 ## 配置
 > 配置文件位于 `application/extra/queue.php`
+
+> 配置文件位于 `application/extra/queue.php` (ThinkPHP5.1以后版本需要将该配置文件移动至 `config/queue.php`)
+
 ### 公共配置
 
 ```
